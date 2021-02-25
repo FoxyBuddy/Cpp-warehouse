@@ -9,9 +9,7 @@ void xlcThousands(double result);
 void TaylorExp(double calc);
 double fact(int n);
 
-double expont = 0.0, base = 0.0;
-double real = 0.0, base1 = 0.0;
-
+double expont = 0.0;
 
 void toTaylorExp()
 {
